@@ -8,7 +8,7 @@ public class HotelManagement {
 
         String url = "jdbc:mysql://localhost:3306/hotel_db";
         String user = "root";      // Your MySQL username
-        String pass = "@shree101"; // Your MySQL password
+        String pass = "Pass@123"; // Your MySQL password
 
         Scanner sc = new Scanner(System.in);
 
